@@ -1,0 +1,16 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.boton{
+    display: flex;
+   margin-left: 51%;
+   margin-top: 2%;
+}
+
+.barra{
+    display: flex;
+   margin-left: 48%;
+   margin-top: 25%;
+}
